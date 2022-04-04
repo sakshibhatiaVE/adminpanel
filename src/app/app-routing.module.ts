@@ -19,7 +19,7 @@ const routes: Routes = [
 
           {
 
-            path: "/dashboard",
+            path: "",
 
             loadChildren: () => import ("./layouts/admin-layout/admin-layout.module").then(m => m.AdminLayoutModule)
 

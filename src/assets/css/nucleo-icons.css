@@ -541,3 +541,19 @@ Created using IcoMoon - icomoon.io
 .icon-components::before {
   content: "\ea65";
 }
+
+
+.forget_pwd {
+  /* text-align: right; */
+  width: 19%;
+  /* top: 81px; */
+  padding-top: 15px;
+  /* width: 98px; */
+  float: right;
+}
+.col-md-6.offset-md-3.mt-5 .card{
+  margin-top:33%;
+  }
+  .input-group, .form-group {
+    margin-bottom: 40px;
+}
